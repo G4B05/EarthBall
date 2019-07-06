@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthBall", "EarthBall.csproj", "{EC3AE852-E3DC-4477-BA62-7B3D849A6F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3AE852-E3DC-4477-BA62-7B3D849A6F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3AE852-E3DC-4477-BA62-7B3D849A6F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3AE852-E3DC-4477-BA62-7B3D849A6F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3AE852-E3DC-4477-BA62-7B3D849A6F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8DE56A0-6CE6-47B4-A36B-D8CB3D8409FA}
+	EndGlobalSection
+EndGlobal
